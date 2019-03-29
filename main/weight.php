@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SB Admin 2 - Login</title>
+  <title>Ideal Weight Prediction With Tensorflow.js</title>
 
   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0/dist/tf.min.js"></script>
 
@@ -22,7 +22,7 @@
 
 </head>
 
-<body class="bg-gradient-primary">
+<body class="" style="background-color:#149dcc;">
 
   <div class="container">
 
@@ -49,7 +49,7 @@
                       <input type="number" class="form-control form-control-user" id="inputText" placeholder="Enter height in cm">
                     </div>
 
-                    <button type="button" class="btn btn-primary btn-user btn-block" id="predictButton" disabled>
+                    <button type="button" style="background-color:#149dcc;color:#ffffff" class="btn btn-user btn-block" id="predictButton" disabled>
                       Model is being trained, please wait ...
                     </button>
                     <hr>
