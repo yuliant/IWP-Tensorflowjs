@@ -8,12 +8,8 @@ model.add(tf.layers.dense({ units: 1, inputShape: [1] }));
 model.compile({ loss: "meanSquaredError", optimizer: "sgd" });
 
 // Provide some housing data
-const xs = tf.tensor1d([
-  1.7, 0.90, 1.85, 1.45, 0.3, 2.00
-]);
-const ys = tf.tensor1d([
-  60, 15, 82, 50, 2, 95
-]);
+const xs = tf.tensor1d(x);
+const ys = tf.tensor1d(y);
 
 //ini sialisasi id dalam html
   const form = document.getElementById("myform");

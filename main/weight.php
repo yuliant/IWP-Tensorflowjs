@@ -23,6 +23,7 @@
 </head>
 
 <body class="" style="background-color:#149dcc;">
+  <?php include './tfjs/get-data.php'; ?>
 
   <div class="container">
 
