@@ -42,12 +42,15 @@
               <div class="col-lg-6">
                 <div class="p-5">
                   <div class="text-center">
-                    <h1 class="text-gray-900 mb-3 mt-5"><b>Ideal Weight Prediction</b></h1>
+                    <h1 class="text-gray-900 mb-3 mt-1.5"><b>Ideal Weight Prediction</b></h1>
                     <h1 class="h6 text-gray-900 mb-4">With Tensorflow</h1>
                   </div>
                   <form class="user" id="myform">
                     <div class="form-group">
-                      <input type="number" class="form-control form-control-user" id="inputText" placeholder="Enter height in cm">
+                      <input type="number" class="form-control form-control-user" id="inputText" placeholder="Enter your height in cm">
+                    </div>
+                    <div class="form-group">
+                      <input type="number" class="form-control form-control-user" id="inputTextWeight" placeholder="Enter your weight in kg">
                     </div>
 
                     <button type="button" style="background-color:#149dcc;color:#ffffff" class="btn btn-user btn-block" id="predictButton" disabled>
@@ -64,7 +67,10 @@
                   </div> -->
                   <div class="text-center">
                     <h1 class="h6 text-gray-900 mb-1">Predicted</h1>
-                    <h1 class="h1 text-gray-900 mb-4"><b><span id="predict" class="predict">00</span> Kg</b></h1>
+                    <h1 class="h1 text-gray-900"><b><span id="predict" class="predict">00</span> Kg</b></h1>
+                  </div>
+                  <div class="alert alert-dark" role="alert" id="MyAlert">
+                    <h6><span id="results">No comment</span><span id="mathIdealWeight"></span></h6>
                   </div>
                 </div>
               </div>

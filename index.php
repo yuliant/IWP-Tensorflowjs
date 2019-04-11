@@ -41,7 +41,7 @@
             <div class="navbar-brand">
 
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="#">
-                        IWP-Tensorflow.js</a></span>
+                        IWP-Tensorflowjs</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -87,10 +87,10 @@
     <div class="container">
         <div class="media-container-row">
             <div class="media-content px-3 align-self-center mbr-white py-2">
-                <p class="mbr-text testimonial-text mbr-fonts-style display-7">Sebuah pengalaman yang tak terlupakan bekerja dengan framework yang sangat luar bisa. Saya harap tensorflow dapat terus berkembang membantu lebih banyak developer lainnya untuk membantu memecahkan banyak masalah.</p>
+                <p class="mbr-text testimonial-text mbr-fonts-style display-7">Sebuah pengalaman yang tak terlupakan bekerja dengan framework yang sangat luar bisa. Saya harap tensorflow dapat terus berkembang membantu lebih banyak developer lainnya untuk memecahkan banyak masalah.</p>
                 <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
-                   MASRIZAL EKA Y.</p>
-                <p class="mbr-author-desc mbr-fonts-style display-7">informatics students from<br>University of Muhammadiyah Sidoarjo</p>
+                   MASRIZAL EKA YULIANTO</p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">Creator IWP-tensorflowjs and informatics students from<br>University of Muhammadiyah Sidoarjo</p>
             </div>
 
             <div class="mbr-figure pl-lg-5" style="width: 130%;">
@@ -110,7 +110,7 @@
         <div class="media-container-row align-center mbr-white">
             <div class="col-12">
                 <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2019 by <a href="https://www.linkedin.com/in/masrizaleka/" target="_blank" class="text-secondary">me</a></p>
+                    © Copyright 2019 by <a href="https://www.linkedin.com/in/masrizaleka/" target="_blank" class="text-secondary">me</a> and data training from <a href="https://www.kaggle.com/" target="_blank" class="text-secondary">Kaggle</a></p>
             </div>
         </div>
     </div>
