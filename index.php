@@ -48,7 +48,7 @@
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
                     <a class="nav-link link text-white display-4" href="index.html#testimonials3-8">
 
-                        About Us
+                        About Me
                     </a>
                 </li></ul>
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white-outline display-4" href="./main/weight.php">
@@ -70,7 +70,7 @@
             <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">Ideal Weight<br>Prediction</h1>
 
             <p class="mbr-text pb-3 mbr-fonts-style display-5">
-               Many people want to know the answer to this question: How much should I weigh? However, there is no clarity. but here, tensorflow can predict it through your height</p>
+               Many people want to know the answer to this question: How much is my ideal weight? However, there is no clarity. but now, tensorflow can predict that</p>
             <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="./main/weight.php">Try It Now!</a></div>
         </div>
     </div>
@@ -87,10 +87,10 @@
     <div class="container">
         <div class="media-container-row">
             <div class="media-content px-3 align-self-center mbr-white py-2">
-                <p class="mbr-text testimonial-text mbr-fonts-style display-7">Sebuah pengalaman yang tak terlupakan bekerja dengan framework yang sangat luar bisa. Saya harap tensorflow dapat terus berkembang membantu lebih banyak developer lainnya untuk memecahkan banyak masalah.</p>
+                <p class="mbr-text testimonial-text mbr-fonts-style display-7">Sebuah pengalaman yang tak terlupakan, bekerja dengan framework yang sangat luar bisa. Saya harap tensorflow dapat terus berkembang membantu lebih banyak developer lainnya untuk memecahkan banyak masalah.</p>
                 <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
                    MASRIZAL EKA YULIANTO</p>
-                <p class="mbr-author-desc mbr-fonts-style display-7">Creator IWP-tensorflowjs and informatics students from<br>University of Muhammadiyah Sidoarjo</p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">Creator IWP-tensorflowjs and informatic students from<br>University of Muhammadiyah Sidoarjo</p>
             </div>
 
             <div class="mbr-figure pl-lg-5" style="width: 130%;">

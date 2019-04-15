@@ -12,6 +12,8 @@
   <title>Ideal Weight Prediction With Tensorflow.js</title>
 
   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0/dist/tf.min.js"></script>
+  <!-- <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
 
   <!-- Custom fonts for this template-->
   <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -70,7 +72,7 @@
                     <h1 class="h1 text-gray-900"><b><span id="predict" class="predict">00</span> Kg</b></h1>
                   </div>
                   <div class="alert alert-dark" role="alert" id="MyAlert">
-                    <h6><span id="results">No comment</span><span id="mathIdealWeight"></span></h6>
+                    <h6><span id="results">No comment</span><span id="mathIdealWeight"></span><span id="searchGoogle"></span></h6>
                   </div>
                 </div>
               </div>
