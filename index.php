@@ -10,7 +10,7 @@
   <meta name="description" content="">
 
   <title>Ideal Weight Prediction With Tensorflow.js</title>
-  <!-- <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css"> -->
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -41,16 +41,19 @@
             <div class="navbar-brand">
 
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="#">
-                        IWP-Tensorflowjs</a></span>
+                        IWP-Tensorflow.js</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="index.html#testimonials3-8">
+                    <a class="nav-link link text-white display-4" href="index.html#features1-i">
 
-                        About Me
-                    </a>
-                </li></ul>
+                        Services</a>
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html#header7-h">
+
+                        Blog</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="page1.php">
+
+                        About Me</a></li></ul>
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white-outline display-4" href="./main/weight.php">
 
                     Try It Now!
@@ -59,7 +62,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/h">create a web page</a></section><section class="header10 cid-rm0XHMsCzj mbr-fullscreen mbr-parallax-background" id="header10-2">
+<section class="engine"><a href="https://mobirise.info/r">bootstrap template</a></section><section class="header10 cid-rm0XHMsCzj mbr-fullscreen mbr-parallax-background" id="header10-2">
 
 
 
@@ -71,14 +74,67 @@
 
             <p class="mbr-text pb-3 mbr-fonts-style display-5">
                Many people want to know the answer to this question: How much is my ideal weight? However, there is no clarity. but now, tensorflow can predict that</p>
-            <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="./main/weight.php">Try It Now!</a></div>
+            <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="#">Try It Now!</a></div>
         </div>
     </div>
 
 
 </section>
 
-<section class="testimonials3 cid-rm1ojRuUh2" id="testimonials3-8">
+<section class="features1 cid-rnZIMee6I2" id="features1-i">
+
+
+
+
+    <div class="container">
+        <div class="media-container-row">
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                    <span class="mbr-iconfont mbri-search"></span>
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title py-3 mbr-fonts-style display-5">
+                        Predicted <br>Ideal Weight</h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        IWP-Tensorflowjs can predict your ideal body weight with your current height and weight.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                    <span class="mbr-iconfont mbri-like"></span>
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title py-3 mbr-fonts-style display-5">Suggestion<br>Ideal Weight</h4>
+                    <p class="mbr-text mbr-fonts-style display-7">Give you suggestion about reduce or gain your body weight
+                    </p>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                    <span class="mbr-iconfont mbri-smile-face"></span>
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title py-3 mbr-fonts-style display-5">Recommendation <br>Treatment</h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Give you recommendation
+<br>treatment&nbsp;to matching your problem body weight
+                    </p>
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="header7 cid-rnZI5NrQ07" id="header7-h">
 
 
 
@@ -86,16 +142,40 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="media-content px-3 align-self-center mbr-white py-2">
-                <p class="mbr-text testimonial-text mbr-fonts-style display-7">Sebuah pengalaman yang tak terlupakan, bekerja dengan framework yang sangat luar bisa. Saya harap tensorflow dapat terus berkembang membantu lebih banyak developer lainnya untuk memecahkan banyak masalah.</p>
-                <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
-                   MASRIZAL EKA YULIANTO</p>
-                <p class="mbr-author-desc mbr-fonts-style display-7">Creator IWP-tensorflowjs and informatic students from<br>University of Muhammadiyah Sidoarjo</p>
+
+            <div class="media-content align-right">
+                <h1 class="mbr-section-title mbr-white pb-3 mbr-fonts-style display-1"><br>Why do you must reduce weight ?</h1>
+                <div class="mbr-section-text mbr-white pb-3">
+
+                </div>
+
             </div>
 
-            <div class="mbr-figure pl-lg-5" style="width: 130%;">
-              <img src="assets/images/masrizal2-1162x1718.jpg" alt="" title="">
+            <div class="mbr-figure" style="width: 100%;"><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/cdkYU8LqwCw?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
+
+        </div>
+    </div>
+</section>
+
+<section class="header7 cid-rnZHj6sZF3" id="header7-f">
+
+
+
+
+
+    <div class="container">
+        <div class="media-container-row">
+
+            <div class="media-content align-right">
+                <h1 class="mbr-section-title mbr-white pb-3 mbr-fonts-style display-1"><br>why do you must gain weight ?</h1>
+                <div class="mbr-section-text mbr-white pb-3">
+
+                </div>
+
             </div>
+
+            <div class="mbr-figure" style="width: 100%;"><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/r2sT3rRaUIk?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
+
         </div>
     </div>
 </section>
@@ -110,7 +190,7 @@
         <div class="media-container-row align-center mbr-white">
             <div class="col-12">
                 <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2019 by <a href="https://www.linkedin.com/in/masrizaleka/" target="_blank" class="text-secondary">me</a> and data training from <a href="https://www.kaggle.com/" target="_blank" class="text-secondary">Kaggle</a></p>
+                    © Copyright 2019 by <a href="https://www.linkedin.com/in/masrizaleka/" target="_blank" class="text-secondary">me</a> and data training by <a href="https://www.kaggle.com" target="_blank" class="text-secondary">kaggle.com</a></p>
             </div>
         </div>
     </div>
