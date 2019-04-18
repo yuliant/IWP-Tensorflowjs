@@ -23,3 +23,7 @@ ver 1.4
 2. Menambahkan validation input
 3. Menambahkan URL google
 4. Perbaikan pada halaman home
+
+ver 1.5
+1. Perbaikan tampilan home
+2. Menambahkan menu services dan blog pada home
