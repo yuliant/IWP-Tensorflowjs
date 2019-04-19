@@ -74,7 +74,7 @@
 
             <p class="mbr-text pb-3 mbr-fonts-style display-5">
                Many people want to know the answer to this question: How much is my ideal weight? However, there is no clarity. but now, tensorflow can predict that</p>
-            <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="#">Try It Now!</a></div>
+            <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="./main/weight.php">Try It Now!</a></div>
         </div>
     </div>
 

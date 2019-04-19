@@ -47,19 +47,19 @@ document.getElementById('predictButton').addEventListener('click', (el, ev) => {
     if ((inputTextWeight.value - Math.floor(Array.from(output.dataSync())[0]))>0) {
       document.getElementById("MyAlert").className = "alert alert-danger";
       results.innerText = "You must to reduce the body weight of ";
-      searchGoogle.innerHTML = ". I have a recommendation for you about this, click " + '<button class=\"btn btn-success btn-sm"\ id=\"click\">HERE</button>';
+      searchGoogle.innerHTML = ". I have a recommendation treatment for you about this, click " + '<button class=\"btn btn-success btn-sm"\ id=\"click\">HERE</button>';
       var q = "how to lose weight " + (inputTextWeight.value - Math.floor(Array.from(output.dataSync())[0])) + " kg";
     } else if((inputTextWeight.value - Math.floor(Array.from(output.dataSync())[0]))<0) {
       document.getElementById("MyAlert").className = "alert alert-primary";
       mathIdealWeight.innerText = Math.abs(inputTextWeight.value - Math.floor(Array.from(output.dataSync())[0])) + " Kg";
       results.innerText = "You must to gain the body weight of ";
-      searchGoogle.innerHTML = ". I have a recommendation for you about this, click " + '<button class=\"btn btn-danger btn-sm"\ id=\"click\">HERE</button>';
+      searchGoogle.innerHTML = ". I have a recommendation treatment for you about this, click " + '<button class=\"btn btn-danger btn-sm"\ id=\"click\">HERE</button>';
       var q = "how to gain weight " + Math.abs(inputTextWeight.value - Math.floor(Array.from(output.dataSync())[0])) + " kg";
     }else{
       document.getElementById("MyAlert").className = "alert alert-success";
       results.innerText = "Your weight is ideal";
       mathIdealWeight.innerText = " ";
-      searchGoogle.innerHTML = ". I have a recommendation for you about this, click " + '<button class=\"btn btn-danger btn-sm"\ id=\"click\">HERE</button>';
+      searchGoogle.innerHTML = ". I have a recommendation treatment for you about this, click " + '<button class=\"btn btn-danger btn-sm"\ id=\"click\">HERE</button>';
       var q = "How to Maintain Ideal Body Weight";
     }
 
