@@ -27,3 +27,11 @@ ver 1.4
 ver 1.5
 1. Perbaikan tampilan home
 2. Menambahkan menu services dan blog pada home
+
+*****************************
+Changelog No Use Mysql Branch
+*****************************
+
+ver 1.0
+1. Menghapus perangkat konfigurasi untuk terhubung ke mysql
+2. Dataset ditaruh ke JavaScript

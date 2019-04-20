@@ -14,13 +14,13 @@ while ($row = mysqli_fetch_array($query))
 	$y[] = number_format($row['y']);
 }
 
-  echo '<script>';
-  echo 'var x = ' . json_encode($x, JSON_NUMERIC_CHECK) . ';';
-  echo '</script>';
-
-	echo '<script>';
-  echo 'var y = ' . json_encode($y, JSON_NUMERIC_CHECK) . ';';
-  echo '</script>';
+  // echo '<script>';
+  // echo 'var x = ' . json_encode($x, JSON_NUMERIC_CHECK) . ';';
+  // echo '</script>';
+	//
+	// echo '<script>';
+  // echo 'var y = ' . json_encode($y, JSON_NUMERIC_CHECK) . ';';
+  // echo '</script>';
 
 
 mysqli_free_result($query);
